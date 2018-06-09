@@ -1,0 +1,21 @@
+.home-page-header {
+  background:url(../images/mt_st_helen.jpg)no-repeat center center fixed;
+  background-size: cover;
+  height: 675px;
+  max-width: 100%;
+  margin: 0;
+}
+
+.hdr-ovrlay {
+  background: rgba(0,0,0,0.30);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.signup-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
